@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": "001",
+    "nome": "Notebook Dell Inspiron 15",
+    "precoCompra": 3200.00,
+    "precoVenda": 4200.00,
+    "quantidade": 15
+  },
+  {
+    "codigo": "002",
+    "nome": "Mouse Logitech Wireless",
+    "precoCompra": 45.90,
+    "precoVenda": 89.90,
+    "quantidade": 45
+  },
+  {
+    "codigo": "003",
+    "nome": "Teclado Mecânico RGB",
+    "precoCompra": 280.00,
+    "precoVenda": 450.00,
+    "quantidade": 8
+  },
+  {
+    "codigo": "004",
+    "nome": "Monitor 24 polegadas",
+    "precoCompra": 850.00,
+    "precoVenda": 1299.00,
+    "quantidade": 22
+  },
+  {
+    "codigo": "005",
+    "nome": "HD SSD 1TB NVMe",
+    "precoCompra": 420.00,
+    "precoVenda": 650.00,
+    "quantidade": 35
+  }
+]
